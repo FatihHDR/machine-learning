@@ -1,0 +1,251 @@
+NIM,Nama,IPK,Kehadiran_Persen,Tugas_Persen,Status
+2022IF001,Irwan Mahardika,3.29,88.0,90.0,Lulus
+2022IF002,,2.71,56.0,30.0,Tidak Lulus
+2022IF003,Qisya Wardani,3.59,94.0,70.0,Lulus
+2022IF004,Cahya Pasaribu,2.32,50.0,30.0,Tidak Lulus
+2022IF005,Hadi Maulana,3.22,75.0,70.0,Lulus
+2022IF006,Eka Gunawan,2.99,81.0,80.0,Lulus
+2022IF007,Lukman Halim,2.9,75.0,,Lulus
+2022IF008,Lukman Fauzi,3.09,88.0,70.0,Lulus
+2022IF009,Eka Nabila,3.0,88.0,70.0,Lulus
+2022IF010,Oka Haryanto,3.26,81.0,80.0,Lulus
+2022IF011,,2.98,100.0,80.0,Lulus
+2022IF012,Raka Kusuma,1.68,75.0,10.0,Tidak Lulus
+2022IF013,Nanda Sitompul,3.21,75.0,70.0,Lulus
+2022IF014,Umi Usman,3.21,94.0,80.0,Lulus
+2022IF015,Putri Nasution,2.05,56.0,10.0,Tidak Lulus
+2022IF016,Maya Lestari,1.81,50.0,60.0,Tidak Lulus
+2022IF017,Qisya Aulia,3.25,75.0,80.0,Lulus
+2022IF018,Bagus Rahmawati,3.04,,90.0,Lulus
+2022IF019,Umi Wibowo,3.44,94.0,70.0,Lulus
+2022IF020,Dewi Saputri,,88.0,90.0,Lulus
+2022IF021,Gita Maulana,1.91,56.0,10.0,Tidak Lulus
+2022IF022,Maya Sitompul,2.82,94.0,100.0,Lulus
+2022IF023,Indah Aulia,3.13,94.0,80.0,Lulus
+2022IF024,Raka Siregar,2.97,88.0,100.0,Lulus
+2022IF025,Eka Cahyono,2.09,81.0,0.0,Tidak Lulus
+2022IF026,Dewi Wardani,2.43,62.0,30.0,Tidak Lulus
+2022IF027,Farhan Mahardika,3.18,75.0,80.0,Lulus
+2022IF028,Kartika Rahmawati,3.25,100.0,70.0,Lulus
+2022IF029,Erni Kurniawan,2.92,81.0,90.0,Lulus
+2022IF030,Dewi Pangestu,2.23,50.0,50.0,Tidak Lulus
+2022IF031,Adi Prasetyo,3.18,94.0,70.0,Lulus
+2022IF032,,,88.0,70.0,Lulus
+2022IF033,Salsa Putri,3.23,88.0,80.0,Lulus
+2022IF034,Joko Hartono,3.08,75.0,70.0,Lulus
+2022IF035,Nanda Wibowo,1.96,44.0,30.0,Tidak Lulus
+2022IF036,Vega Febriani,3.26,100.0,80.0,Lulus
+2022IF037,Dewi Ananda,3.22,88.0,70.0,Lulus
+2022IF038,Galih Pasaribu,2.09,62.0,70.0,Tidak Lulus
+2022IF039,Dewi Hutagalung,3.1,88.0,80.0,Lulus
+2022IF040,Lia Haryanto,1.63,75.0,50.0,Tidak Lulus
+2022IF041,Rahmat Maulana,2.42,44.0,60.0,Tidak Lulus
+2022IF042,Hadi Usman,2.76,94.0,100.0,Lulus
+2022IF043,Lukman Fitria,2.87,81.0,80.0,Lulus
+2022IF044,Nadia Ramadhan,,75.0,80.0,Lulus
+2022IF045,Qisya Ananda,1.68,69.0,20.0,Tidak Lulus
+2022IF046,Qori Kurniawan,3.58,81.0,80.0,Lulus
+2022IF047,Putri Syahputra,3.38,81.0,,Lulus
+2022IF048,Indah Kusuma,3.52,75.0,80.0,Lulus
+2022IF049,Dimas Febriani,3.22,94.0,70.0,Lulus
+2022IF050,Adi Siregar,2.78,94.0,80.0,Lulus
+2022IF051,Eka Sitompul,,88.0,70.0,Lulus
+2022IF052,Galih Syahputra,3.22,88.0,70.0,Lulus
+2022IF053,Wahyu Haryanto,3.67,94.0,70.0,Lulus
+2022IF054,Xena Safitri,3.33,81.0,90.0,Lulus
+2022IF055,,3.47,81.0,90.0,Lulus
+2022IF056,Nadia Wardani,3.27,94.0,100.0,Lulus
+2022IF057,Qisya Halim,2.0,50.0,20.0,Tidak Lulus
+2022IF058,Qisya Lestari,1.77,56.0,40.0,Tidak Lulus
+2022IF059,Qori Putra,3.23,94.0,80.0,Lulus
+2022IF060,Vega Halim,3.56,88.0,100.0,Lulus
+2022IF061,Raka Safitri,3.33,81.0,70.0,Lulus
+2022IF062,Tirta Gunawan,3.29,88.0,90.0,Lulus
+2022IF063,Rahmat Hidayat,2.29,56.0,20.0,Tidak Lulus
+2022IF064,Galih Simanjuntak,1.49,50.0,50.0,Tidak Lulus
+2022IF065,Dewi Ramadhan,3.21,81.0,80.0,Lulus
+2022IF066,Raka Pratama,3.26,81.0,80.0,Lulus
+2022IF067,Vina Nuraini,3.17,81.0,80.0,Lulus
+2022IF068,Omar Syahputra,3.31,94.0,90.0,Lulus
+2022IF069,Vega Cahyono,2.76,81.0,90.0,Lulus
+2022IF070,Jihan Saputra,2.31,69.0,70.0,Tidak Lulus
+2022IF071,Eka Pertiwi,3.31,94.0,,Lulus
+2022IF072,Irwan Pratama,2.36,56.0,50.0,Tidak Lulus
+2022IF073,Lukman Halim,2.93,88.0,70.0,Lulus
+2022IF074,Bagus Nugroho,3.17,100.0,70.0,Lulus
+2022IF075,Taufik Suryani,2.37,31.0,30.0,Tidak Lulus
+2022IF076,Wahyu Kurniawan,3.45,88.0,70.0,Lulus
+2022IF077,Qisya Lestari,2.95,94.0,70.0,Lulus
+2022IF078,Yoga Halim,3.21,88.0,70.0,Lulus
+2022IF079,Nadia Prameswari,3.75,94.0,70.0,Lulus
+2022IF080,Putri Pangestu,2.17,50.0,50.0,Tidak Lulus
+2022IF081,Arif Sari,2.93,88.0,90.0,Lulus
+2022IF082,Vega Gunawan,3.39,81.0,80.0,Lulus
+2022IF083,Qisya Prameswari,3.02,81.0,100.0,Lulus
+2022IF084,Raka Pangestu,3.26,75.0,90.0,Lulus
+2022IF085,Yusuf Pratama,3.74,94.0,70.0,Lulus
+2022IF086,Oka Hartono,3.01,100.0,70.0,Lulus
+2022IF087,Wahyu Firmansyah,3.27,94.0,70.0,Lulus
+2022IF088,Oka Sari,3.13,75.0,70.0,Lulus
+2022IF089,Zahra Gunawan,3.08,81.0,100.0,Lulus
+2022IF090,Eka Nuraini,1.53,50.0,40.0,Tidak Lulus
+2022IF091,,3.55,75.0,90.0,Lulus
+2022IF092,Rahmat Sitompul,3.15,81.0,90.0,Lulus
+2022IF093,Budi Putra,3.21,81.0,80.0,Lulus
+2022IF094,Lia Ananda,3.04,88.0,90.0,Lulus
+2022IF095,Citra Lestari,2.73,38.0,70.0,Tidak Lulus
+2022IF096,Wahyu Putri,2.6,88.0,,Lulus
+2022IF097,Bagus Fitria,3.23,81.0,80.0,Lulus
+2022IF098,Yusuf Usman,1.9,50.0,50.0,Tidak Lulus
+2022IF099,Qori Pratama,3.25,81.0,90.0,Lulus
+2022IF100,Adi Pasaribu,3.24,94.0,90.0,Lulus
+2022IF101,Xena Aulia,1.77,50.0,50.0,Tidak Lulus
+2022IF102,Qisya Gunawan,3.32,88.0,80.0,Lulus
+2022IF103,Qisya Putra,,81.0,90.0,Lulus
+2022IF104,Galih Firmansyah,2.02,56.0,60.0,Tidak Lulus
+2022IF105,Unggul Saputri,3.38,94.0,100.0,Lulus
+2022IF106,Jihan Nugroho,3.16,94.0,80.0,Lulus
+2022IF107,Arif Kusuma,3.24,88.0,80.0,Lulus
+2022IF108,Rahmat Prameswari,3.32,81.0,100.0,Lulus
+2022IF109,Nadia Usman,1.7,38.0,60.0,Tidak Lulus
+2022IF110,Zahra Halim,3.37,94.0,90.0,Lulus
+2022IF111,Taufik Safitri,2.1,44.0,40.0,Tidak Lulus
+2022IF112,,2.96,94.0,80.0,Lulus
+2022IF113,Dimas Cahyono,2.92,88.0,80.0,Lulus
+2022IF114,Rahmat Kurniawan,2.99,81.0,,Lulus
+2022IF115,Vega Pangestu,2.2,50.0,30.0,Tidak Lulus
+2022IF116,Sari Hutagalung,3.21,75.0,70.0,Lulus
+2022IF117,Farhan Mahardika,2.95,88.0,80.0,Lulus
+2022IF118,Rahmat Firmansyah,3.56,94.0,80.0,Lulus
+2022IF119,Maya Santoso,3.14,81.0,80.0,Lulus
+2022IF120,Citra Maulana,3.07,,70.0,Lulus
+2022IF121,Nadia Nuraini,3.3,100.0,80.0,Lulus
+2022IF122,Dimas Rahmawati,3.26,94.0,80.0,Lulus
+2022IF123,Tirta Pertiwi,3.21,88.0,80.0,Lulus
+2022IF124,Fajar Saputri,2.93,88.0,90.0,Lulus
+2022IF125,Joko Wardani,2.68,75.0,70.0,Tidak Lulus
+2022IF126,Wulan Nuraini,2.94,94.0,80.0,Lulus
+2022IF127,Yoga Aulia,3.76,81.0,70.0,Lulus
+2022IF128,Lia Pertiwi,2.98,75.0,70.0,Lulus
+2022IF129,Dewi Halim,2.94,88.0,80.0,Lulus
+2022IF130,Hadi Siregar,,94.0,70.0,Lulus
+2022IF131,Dimas Kusuma,2.9,94.0,70.0,Lulus
+2022IF132,Wulan Cahyono,3.66,94.0,70.0,Lulus
+2022IF133,Jihan Cahyono,2.67,100.0,80.0,Lulus
+2022IF134,Vega Nasution,3.5,75.0,70.0,Lulus
+2022IF135,Qori Mahardika,2.1,62.0,30.0,Tidak Lulus
+2022IF136,Omar Anggraini,2.35,44.0,30.0,Tidak Lulus
+2022IF137,Omar Maulana,3.18,94.0,90.0,Lulus
+2022IF138,Cahya Haryanto,1.65,38.0,60.0,Tidak Lulus
+2022IF139,Putri Anggraini,3.24,81.0,100.0,Lulus
+2022IF140,Unggul Sitompul,3.18,94.0,80.0,Lulus
+2022IF141,Indah Santoso,3.73,100.0,80.0,Lulus
+2022IF142,Yusuf Pertiwi,2.49,69.0,60.0,Tidak Lulus
+2022IF143,Tirta Kurniawan,2.88,94.0,90.0,Lulus
+2022IF144,Arif Rahmawati,2.66,81.0,70.0,Lulus
+2022IF145,Irwan Siregar,3.07,94.0,100.0,Lulus
+2022IF146,Dewi Kurniawan,3.17,100.0,70.0,Lulus
+2022IF147,Yusuf Nuraini,2.67,88.0,80.0,Lulus
+2022IF148,Wulan Usman,3.14,75.0,80.0,Lulus
+2022IF149,Erni Saputra,2.78,94.0,80.0,Lulus
+2022IF150,Taufik Mahardika,,81.0,70.0,Lulus
+2022IF151,Arif Sitompul,3.13,94.0,70.0,Lulus
+2022IF152,Fajar Fauzi,3.29,81.0,70.0,Lulus
+2022IF153,Bagus Simanjuntak,3.12,81.0,,Lulus
+2022IF154,Yusuf Gunawan,2.81,100.0,80.0,Lulus
+2022IF155,Umi Pangestu,2.95,88.0,80.0,Lulus
+2022IF156,Indah Yulianti,3.09,94.0,90.0,Lulus
+2022IF157,,3.0,81.0,80.0,Lulus
+2022IF158,Farhan Wardani,2.51,75.0,100.0,Lulus
+2022IF159,Indah Siregar,2.76,56.0,50.0,Tidak Lulus
+2022IF160,Dewi Syahputra,2.22,81.0,60.0,Tidak Lulus
+2022IF161,Unggul Kurniawan,3.11,81.0,70.0,Lulus
+2022IF162,Unggul Gunawan,2.18,50.0,10.0,Tidak Lulus
+2022IF163,Raka Mahardika,2.97,81.0,100.0,Lulus
+2022IF164,Qori Ramadhan,2.45,56.0,60.0,Tidak Lulus
+2022IF165,Budi Prameswari,3.17,81.0,100.0,Lulus
+2022IF166,Wahyu Fauzi,2.32,44.0,30.0,Tidak Lulus
+2022IF167,Yoga Wardani,2.9,75.0,90.0,Lulus
+2022IF168,Wulan Sari,3.68,75.0,90.0,Lulus
+2022IF169,Maya Sari,2.97,81.0,,Lulus
+2022IF170,Putri Nugroho,1.75,62.0,20.0,Tidak Lulus
+2022IF171,Qisya Putra,3.23,88.0,80.0,Lulus
+2022IF172,,,81.0,90.0,Lulus
+2022IF173,Yoga Suryani,3.29,81.0,80.0,Lulus
+2022IF174,,2.4,31.0,50.0,Tidak Lulus
+2022IF175,Yoga Pangestu,1.83,69.0,20.0,Tidak Lulus
+2022IF176,Gita Ananda,2.64,75.0,,Lulus
+2022IF177,Taufik Usman,3.22,81.0,90.0,Lulus
+2022IF178,Zahra Nabila,1.44,56.0,,Tidak Lulus
+2022IF179,Eka Ananda,1.84,62.0,20.0,Tidak Lulus
+2022IF180,Gita Pertiwi,3.04,,70.0,Lulus
+2022IF181,Rahmat Fitria,3.38,81.0,90.0,Lulus
+2022IF182,Kevin Pratama,3.55,,70.0,Lulus
+2022IF183,Irwan Aulia,3.31,88.0,80.0,Lulus
+2022IF184,Eka Hutagalung,2.98,88.0,80.0,Lulus
+2022IF185,Adi Rahmawati,3.48,88.0,80.0,Lulus
+2022IF186,Gita Aulia,3.03,81.0,70.0,Lulus
+2022IF187,,2.26,50.0,40.0,Tidak Lulus
+2022IF188,Bagus Wijaya,3.73,94.0,80.0,Lulus
+2022IF189,Nadia Sitompul,3.49,88.0,,Lulus
+2022IF190,Dimas Aulia,1.7,31.0,30.0,Tidak Lulus
+2022IF191,Unggul Maulana,3.16,,80.0,Lulus
+2022IF192,Raka Cahyono,2.01,75.0,0.0,Tidak Lulus
+2022IF193,Wulan Siregar,3.22,94.0,70.0,Lulus
+2022IF194,,3.47,88.0,80.0,Lulus
+2022IF195,Unggul Wijaya,3.33,100.0,80.0,Lulus
+2022IF196,,3.22,81.0,70.0,Lulus
+2022IF197,Vina Anggraini,2.43,44.0,40.0,Tidak Lulus
+2022IF198,Jihan Saputra,3.02,94.0,80.0,Lulus
+2022IF199,,3.44,81.0,80.0,Lulus
+2022IF200,Fajar Halim,,50.0,40.0,Tidak Lulus
+2022IF201,Nama201,2.51,74.0,95.0,Tidak Lulus
+2022IF202,Nama202,3.1,93.0,81.0,Lulus
+2022IF203,Nama203,2.68,88.0,63.0,Tidak Lulus
+2022IF204,Nama204,,81.0,39.0,Tidak Lulus
+2022IF205,Nama205,,69.0,90.0,Tidak Lulus
+2022IF206,Nama206,3.07,100.0,,Tidak Lulus
+2022IF207,Nama207,2.84,85.0,25.0,Tidak Lulus
+2022IF208,Nama208,3.41,100.0,92.0,Lulus
+2022IF209,Nama209,3.38,77.0,95.0,Lulus
+2022IF210,Nama210,3.54,85.0,70.0,Lulus
+2022IF211,Nama211,2.82,61.0,94.0,Tidak Lulus
+2022IF212,Nama212,1.91,74.0,,Tidak Lulus
+2022IF213,Nama213,3.43,100.0,89.0,Lulus
+2022IF214,Nama214,2.85,90.0,44.0,Tidak Lulus
+2022IF215,Nama215,,77.0,56.0,Tidak Lulus
+2022IF216,Nama216,2.68,79.0,62.0,Tidak Lulus
+2022IF217,Nama217,4.0,69.0,70.0,Tidak Lulus
+2022IF218,Nama218,3.01,80.0,71.0,Lulus
+2022IF219,Nama219,2.76,71.0,52.0,Tidak Lulus
+2022IF220,Nama220,2.26,83.0,89.0,Tidak Lulus
+2022IF221,Nama221,2.73,71.0,63.0,Tidak Lulus
+2022IF222,,2.77,58.0,97.0,Tidak Lulus
+2022IF223,Nama223,3.22,69.0,75.0,Tidak Lulus
+2022IF224,Nama224,2.78,76.0,77.0,Lulus
+2022IF225,Nama225,3.48,100.0,100.0,Lulus
+2022IF226,Nama226,2.88,72.0,71.0,Lulus
+2022IF227,Nama227,,68.0,57.0,Tidak Lulus
+2022IF228,Nama228,3.41,100.0,65.0,Lulus
+2022IF229,Nama229,2.68,75.0,50.0,Tidak Lulus
+2022IF230,Nama230,2.86,86.0,68.0,Lulus
+2022IF231,Nama231,3.62,82.0,79.0,Lulus
+2022IF232,Nama232,2.93,99.0,45.0,Tidak Lulus
+2022IF233,Nama233,2.85,62.0,86.0,Tidak Lulus
+2022IF234,Nama234,3.43,72.0,100.0,Lulus
+2022IF235,Nama235,2.85,59.0,64.0,Tidak Lulus
+2022IF236,Nama236,3.18,76.0,100.0,Lulus
+2022IF237,Nama237,3.43,100.0,,Lulus
+2022IF238,Nama238,2.16,74.0,15.0,Tidak Lulus
+2022IF239,Nama239,2.68,96.0,53.0,Tidak Lulus
+2022IF240,Nama240,2.68,84.0,85.0,Tidak Lulus
+2022IF241,Nama241,2.82,76.0,86.0,Lulus
+2022IF242,Nama242,3.13,75.0,76.0,Lulus
+2022IF243,,3.04,83.0,100.0,Lulus
+2022IF244,Nama244,2.85,71.0,,Lulus
+2022IF245,Nama245,2.65,100.0,66.0,Tidak Lulus
+2022IF246,Nama246,3.04,91.0,,Lulus
+2022IF247,Nama247,3.5,76.0,62.0,Lulus
+2022IF248,Nama248,3.17,82.0,57.0,Tidak Lulus
+2022IF249,Nama249,3.21,94.0,73.0,Lulus
+2022IF250,Nama250,3.78,86.0,66.0,Lulus
